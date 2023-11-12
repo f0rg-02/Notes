@@ -73,7 +73,9 @@ uci set network.wan.ipv6="1"
 wifi reload
 service network reload
 
-sleep 30 # Sleep for 30 seconds so ipv6 can work properly with responder. For some reason ipv6 with Responder on OpenWRT is annoyingly finicky and I wasted too much time to want to touch it anymore.
+# Sleep for 30 seconds so ipv6 can work properly with responder.
+# For some reason ipv6 with Responder on OpenWRT is annoyingly finicky and I wasted too much time to want to touch it anymore.
+sleep 30
 
 [ "$ACTION" = "ifup" -a "$INTERFACE" = "wan" ] && {                                                   
         logger "iface wan up detected..."                                                     
