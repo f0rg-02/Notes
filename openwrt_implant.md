@@ -1,5 +1,8 @@
 # Openwrt Implant
 
+Device I've been testing on: https://www.gl-inet.com/products/gl-ar300m/
+USB I've been using: https://www.pny.com/elite-x-fit-usb-3-1?sku=P-FDI64GEXFIT-GE
+
 The post I used to get the usb drive to behave properly: https://forum.gl-inet.com/t/mifi-install-package-on-external-storage-usb-or-sd-card/4332
 
 - There are still issues here and there, but it works for everything I configured it for.
