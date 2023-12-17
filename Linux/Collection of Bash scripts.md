@@ -3,3 +3,5 @@
 - [[rustscan + nmap]] (Script to automate scanning of hosts)
 - [[Update git repos]] (Script to update git repos in current directory)
 - [[setup vagrant]] (Script to automate setting up vagrant vms)
+- [[Get IPs from ASN]] (Automate getting ips from ASN)
+- [[Lookup crt.sh]]

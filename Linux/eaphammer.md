@@ -1,3 +1,10 @@
+---
+Name: eaphammer
+Platform: Linux
+tags:
+  - Resources
+  - infosec
+---
 GitHub: https://github.com/s0lst1c3/eaphammer
 
 ------
