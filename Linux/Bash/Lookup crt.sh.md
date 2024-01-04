@@ -1,3 +1,9 @@
+---
+Name: Lookup crt.sh
+Platform: Linux
+tags:
+  - Resources
+---
 Required programs: jq and [[Httprobe]]
 
 Bash script:

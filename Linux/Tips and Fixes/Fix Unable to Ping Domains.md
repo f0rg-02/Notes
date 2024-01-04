@@ -5,8 +5,6 @@ tags:
   - Resources
   - general
 ---
-
-
 Sometimes can ping dns and ips, but not domain names. Annoying especially on my Debian server.
 
 The solution I found to work is to change this line in /etc/nsswitch.conf:

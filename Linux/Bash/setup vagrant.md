@@ -2,10 +2,8 @@
 Name: setup vagrant
 Platform: Linux
 tags:
-  - Shells
   - Resources
 ---
-
 Script to automate a bit setting up Vagrant VM boxes.
 
 Example usage: `setup_vagrant.sh -n ubuntu/trusty64`

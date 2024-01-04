@@ -1,7 +1,9 @@
 ---
 Name: git push
 Platform: Linux
-tags: Resources
+tags:
+  - Resources
+  - general
 ---
 Commands to push new changes to GitHub repository.
 

@@ -1,4 +1,10 @@
-
+---
+Name: Update git repos
+Platform: Linux
+tags:
+  - Resources
+  - general
+---
 Script to automate updating git repos in current directory:
 
 ```ruby

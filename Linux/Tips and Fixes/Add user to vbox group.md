@@ -1,3 +1,11 @@
+---
+Name: Add user to vbox group
+Platform: Linux
+tags:
+  - Resources
+  - general
+---
+
 Add user to vbox group:
 
 ```ruby

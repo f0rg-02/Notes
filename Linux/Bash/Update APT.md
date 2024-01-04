@@ -3,8 +3,8 @@ Name: Bash Update APT
 Platform: Debian distros
 tags:
   - Resources
+  - general
 ---
-
 Bash script to update system using APT:
 
 ```ruby

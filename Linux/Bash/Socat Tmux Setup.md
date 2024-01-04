@@ -3,7 +3,6 @@ Name: Socat Tmux Setup
 Platform: Linux
 tags: Resources
 ---
-
 Create and handle multiple connections using socat and tmux. ^63a416
 
 Bash script to start with socat.
