@@ -26,10 +26,29 @@ Tools:
 
 ------
 
+[[Hakrevdns]] is a very simple and useful tool to get domains from ips using reverse dns lookup. Can also be piped easily into other tools like [[Httprobe]].
+
+------
+
+[[Httprobe]] is a simple golang tool that can check for http and https of a given domain. Can be used in conjuction with other tools like [[Hakrevdns]] through piping.
+
+------
+[[PCAPMonkey]] is a platform that uses zeek, suricata, and [[ELK]] to extract useful information from pcap files. Uses docker.
+
+------
+
+[[dirhunt]] is an interesting tool that allows getting paths without bruteforcing.
+
+------
+
+[[Gobuster]] is a golang tool for bruteforcing and is very fast with lots of options.
+
+-------
+
 Sniffers:
 ------
 
--  [[tcpdump]] by far the best packet sniffer from cli 
+-  [[tcpdump]] by far the best packet sniffer from cli
 -  [[p0f]] is an easy to use passive fingerprinting tool
 - [[dsniff]] old but still reliable tool to sniff for plaintext
 
